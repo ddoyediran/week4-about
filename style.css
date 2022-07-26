@@ -1,0 +1,50 @@
+/* body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 35em;
+  margin-top: 40px; 
+} */
+
+.parent {
+  padding: 20px;
+}
+
+.child {
+  width: 50%;
+  float: left;
+}
+
+/* .parent {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  width: 50%;
+}
+
+.child {
+  margin: 10px;
+} */
+
+/* .parent {
+  margin: 1rem;
+  padding: 2rem 2rem;
+}
+
+.child {
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+} */
+
+/* .parent {
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+  }
+  .child {
+    display: inline-block;
+    border: 1px solid red;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+  } */
