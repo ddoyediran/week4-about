@@ -5,6 +5,14 @@
   margin-top: 40px; 
 } */
 
+.top {
+  text-align: center;
+}
+
+.h1-about-me {
+  color: rgb(19, 1, 102);
+}
+
 .parent {
   padding: 10px;
 }
@@ -16,6 +24,14 @@
 
 hr {
   color: aliceblue;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(255, 115, 138, 1),
+    rgba(0, 0, 0, 0)
+  );
 }
 
 .h2-role {
