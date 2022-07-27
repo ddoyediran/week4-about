@@ -6,12 +6,29 @@
 } */
 
 .parent {
-  padding: 20px;
+  padding: 10px;
 }
 
 .child {
   width: 50%;
   float: left;
+}
+
+hr {
+  color: aliceblue;
+}
+
+.h2-role {
+  color: rgb(19, 1, 102);
+}
+
+.h2-about {
+  color: rgb(255, 115, 138);
+}
+
+p {
+  text-align: justify;
+  text-justify: newspaper;
 }
 
 /* .parent {
